@@ -1,0 +1,33 @@
+{
+    "content": [
+        {
+            "id": "2e10d545",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "2a1bf19c",
+                    "settings": {
+                        "title": "changed",
+                        "sub_title": "Sub Title",
+                        "title_s": "Title",
+                        "wdkitai_title_demo": "text123",
+                        "wdkitai_title_demo_replace": "title",
+                        "__globals__": {
+                            "title_solid_color": "globals\/colors?id=accent"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "tp-heading-title",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "newesttemplate",
+    "type": "page"
+}
