@@ -71,6 +71,8 @@ async function FindAndReplace(filePath, label, edit) {
     return { success: true, updatedData: jsonData };
 }
 
+app.get('/test', (req, res) => { console.log('working'); res.send('Test route working'); });
+
 app.post('/api/elementor-replacer', async (req, res) => {
     try {
         const { label, edit } = req.body;
